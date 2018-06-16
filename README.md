@@ -1,1 +1,1 @@
-# gui
+# LDAP (Slapd)
